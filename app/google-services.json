@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828727805081",
+    "firebase_url": "https://chattingapp-8a69f.firebaseio.com",
+    "project_id": "chattingapp-8a69f",
+    "storage_bucket": "chattingapp-8a69f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828727805081:android:46097d2efb19c92095e408",
+        "android_client_info": {
+          "package_name": "com.example.vivekram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828727805081-2tmjp35vu114e7hdnth17q1ahdj115j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vivekram",
+            "certificate_hash": "b5a6ba3162dbb8af31a6d14baa05f9fbc24cec13"
+          }
+        },
+        {
+          "client_id": "828727805081-h0u16391hag9sbrci749v4004naqe02t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3r2zF4kB2zhDBw-sT3ZOADuygSVFRRqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828727805081-h0u16391hag9sbrci749v4004naqe02t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
